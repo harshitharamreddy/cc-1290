@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Azure</title>
+</head>
+<body>
+<h1>welcome to cloud computing</h1>
+<p>this is cloud computing lab external<p>
+</body>
+</html>
